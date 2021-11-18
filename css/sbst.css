@@ -10,7 +10,7 @@
 .paper-authors {
     display:inline;
     font-size:90%;
-    color: #1baedb;/*color: #f96332;*/
+    color: #6a4ee7;/*color: #f96332;*/
     min-height: 10px;
     text-align: left;
 }
@@ -42,16 +42,17 @@
 }
 
 .btn-primary {
-    background-color: #1baedb;
+    background-color: #3e2999;
     color: #FFFFFF;
 }
 
 .bg-primary {
-    background-color: #1baedb !important;
+    background-color: #6a4ee7 !important;
+    opacity: 0.76;
 }
 
 .sidebar-collapse .navbar-collapse:before {
-    background: linear-gradient(#1baedb 0%, #000 80%);
+    background: linear-gradient(#6a4ee7 0%, #000 80%);
     opacity: 0.76;
     filter: alpha(opacity=76);
     display: block;
@@ -65,11 +66,11 @@
 }
 
 .text-primary {
-    color: #137897 !important;
+    color: #3e2999 !important;
 }
 
 a {
-    color: #137897;
+    color: #3e2999;
 }
 
 .nopadding {
