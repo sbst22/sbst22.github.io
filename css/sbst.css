@@ -41,6 +41,11 @@
     text-align: left;
 }
 
+.committee-table {
+    align-self: center;
+    text-align: left;
+}
+
 .btn-primary {
     background-color: #3e2999;
     color: #FFFFFF;
