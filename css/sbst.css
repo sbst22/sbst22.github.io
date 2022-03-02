@@ -15,6 +15,14 @@
     text-align: left;
 }
 
+.paper-authors-accepted {
+    display:inline;
+    font-size:90%;
+    color: #3e2999;/*color: #f96332;*/
+    min-height: 8px;
+    text-align: left;
+}
+
 .paper-affiliation {
     display:inline;
     font-size:90%;
