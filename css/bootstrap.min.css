@@ -8274,6 +8274,11 @@ a.bg-dark:hover {
     text-align: justify!important
 }
 
+.text-justify-colored {
+    text-align: justify!important;
+    color: #3e2999
+}
+
 .text-nowrap {
     white-space: nowrap!important
 }
