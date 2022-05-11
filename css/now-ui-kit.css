@@ -1503,7 +1503,10 @@ fieldset[disabled] .btn-link.active {
   border-radius: 0.25rem;
   padding: 15px 48px; }
   .btn-lg.btn-simple {
-    padding: 14px 47px; }
+  padding: 14px 47px; }
+
+  .btn-lg.btn-youtube {
+    margin-left: 40%; }
 
 .btn-sm {
   font-size: 14px;
